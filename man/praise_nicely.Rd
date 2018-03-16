@@ -15,3 +15,6 @@ a praise (character)
 \description{
 Title
 }
+\examples{
+praise_nicely("everyone")
+}
