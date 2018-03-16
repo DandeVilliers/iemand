@@ -1,5 +1,7 @@
 [![Travis build status](https://travis-ci.org/DandeVilliers/iemand.svg?branch=master)](https://travis-ci.org/DandeVilliers/iemand)
 
+[![Coverage status](https://codecov.io/gh/DandeVilliers/iemand/branch/master/graph/badge.svg)](https://codecov.io/github/DandeVilliers/iemand?branch=master)
+
 # iemand
 
 The goal of iemand is to learn how to make R packages
