@@ -9,7 +9,7 @@ LazyData: true
 ByteCompile: true
 RoxygenNote: 6.0.1
 Suggests: testthat
-Depends: R (>= 2.10)
+Depends: R (>= 3.0.1)
 Imports: 
     magrittr,
     praise
